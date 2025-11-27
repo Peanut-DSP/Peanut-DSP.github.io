@@ -1,11 +1,9 @@
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
+import { Card, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import {
   BarChart3,
   Mail,
-  Phone,
   MapPin,
   Github,
   Workflow,
